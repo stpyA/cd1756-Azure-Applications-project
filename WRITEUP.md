@@ -57,4 +57,4 @@ App Service supports modern web applications and APIs, making it ideal for a CMS
 App Service provides a range of built-in services and integrations, such as authentication, authorization, and monitoring, which can be easily configured to meet the application’s requirements. This reduces the need for additional third-party tools and simplifies the overall architecture1.
 
 
-###Given these advantages, App Service is the optimal choice for deploying the CMS app, providing a balance of cost efficiency, scalability, high availability, and ease of management.
+###  Given these advantages, App Service is the optimal choice for deploying the CMS app, providing a balance of cost efficiency, scalability, high availability, and ease of management.
